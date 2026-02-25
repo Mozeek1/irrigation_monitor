@@ -1,0 +1,5 @@
+{
+  "name": "Smart Drip Irrigation Dashboard",
+  "description": "A dashboard for monitoring and controlling a smart drip irrigation system with soil sensors and weather data integration.",
+  "requestFramePermissions": []
+}
